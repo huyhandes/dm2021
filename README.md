@@ -14,3 +14,7 @@ Student Info
 
 * Name: BUI Quang Huy
 
+=======================
+
+* You can get the data from: [Here](https://drive.google.com/file/d/1m7u9AqlteE5du2tbu9zvmfJSse9AUm6N/view?usp=sharing)
+* Run get_data.sh to get the sample data
