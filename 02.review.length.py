@@ -16,4 +16,4 @@ std = math.sqrt(variance)
 
 sns_plot = sns.histplot(data=sample_documents_size)#,x='Document size',y='counts')
 fig = sns_plot.get_figure()
-fig.savefig("output.png")
+fig.savefig("02.review.length.png")
