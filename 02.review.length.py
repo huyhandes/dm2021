@@ -14,6 +14,6 @@ variance = sum(distance) / len(sample_documents_size)
 
 std = math.sqrt(variance)
 
-sns_plot = sns.histplot(data=sample_documents_size)#,x='Document size',y='counts')
+sns_plot = sns.histplot(data=sample_documents_size,kde=True)#,x='Document size',y='counts')
 fig = sns_plot.get_figure()
 fig.savefig("02.review.length.png")
