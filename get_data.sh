@@ -1,1 +1,1 @@
-head -n 30 yelp_academic_dataset_review.json > samples.json
+head -n 1000 yelp_academic_dataset_review.json > samples.json
