@@ -18,3 +18,5 @@ Student Info
 
 * You can get the data from: [Here](https://drive.google.com/file/d/1m7u9AqlteE5du2tbu9zvmfJSse9AUm6N/view?usp=sharing)
 * Run get_data.sh to get the sample data
+* Ouput of the labwork 2 is in 02.review.length.png
+![](02.review.length.png?raw=true)
